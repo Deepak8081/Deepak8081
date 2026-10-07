@@ -5,17 +5,16 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-chakravarti-1a5915256)
 [![GitHub Repos](https://img.shields.io/badge/Repositories-60+-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepak8081?tab=repositories)
-[![Production](https://img.shields.io/badge/Deployments-Live%20on%20Vercel%20%26%20AWS-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://jvs-website-five.vercel.app)
-[![Email](https://img.shields.io/badge/Hire%20Me-deepakraj9454979020%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakraj9454979020@gmail.com)
+[![Email](https://img.shields.io/badge/Email-deepakraj9454979020%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakraj9454979020@gmail.com)
 
 <p align="center">
-  Senior Full-Stack & DevOps Engineer delivering high-performance, enterprise-grade web applications, SaaS platforms, cloud infrastructure, and custom software systems across diverse industries.
+  Full-Stack & DevOps Engineer building clean, functional web applications with React 19, Next.js, Node.js, Express, MongoDB, and AWS.
 </p>
 
-<!-- Modern Silicon Valley Devicon Vector Tech Stack -->
+<!-- Modern Clean Tech Stack Strip -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,mysql,aws,docker,kubernetes,githubactions,linux,nginx,python,django,redux,git,postman,vite,vercel" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,mysql,aws,docker,git,postman,linux,vite,vercel" alt="Tech Stack" />
   </a>
 </p>
 
@@ -24,26 +23,21 @@
 ---
 
 ## 💼 Production Systems & Domain Expertise
-> **End-to-End Architectural Delivery Across Major Industry Verticals**
+> **Core domains backed by working full-stack codebases and production implementations**
 
-| Industry / Domain | Core Architectural Capabilities & Deliverables |
+| Domain / Project Type | Key Architecture & Features Built |
 | :--- | :--- |
-| **🏢 Enterprise ERP & Business Operations** | Comprehensive ERP architectures with Role-Based Access Control (RBAC), daily employee attendance logs, project milestones, automated payroll/invoicing, and executive PDF reporting engines. |
-| **🏡 Real Estate & Property Portals** | Scalable multi-listing property platforms, interactive location filters, dynamic map integrations, virtual walkthrough layouts, agent CRM workflows, and direct lead capture pipelines. |
-| **💼 Job Recruitment & Career Portals (ATS)** | End-to-end career platforms, Applicant Tracking Systems (ATS), dual-role Candidate & Recruiter dashboards, resume upload/parsing, application stage tracking, and multi-parameter job search. |
-| **🎓 EdTech & Student Management (LMS)** | Student lifecycle management, course catalog & enrollments, video lecture streaming, interactive quiz evaluations, gradebooks, milestone certificates, and instructor administration. |
-| **🛍️ E-Commerce & Multi-Vendor Marketplaces** | High-throughput storefronts, catalog classification, real-time inventory synchronization, dynamic shopping carts, order fulfillment workflows, and secure payment gateway integrations. |
-| **🚗 Mobility, Car Rental & Fleet Booking** | Fleet management portals, real-time vehicle availability checkers, date-time reservation schedulers, automated fare calculators, booking confirmations, and customer rental histories. |
-| **💬 Real-Time Collaboration & Chat Systems** | Event-driven bidirectional communication platforms powered by WebSockets (Socket.IO), departmental group channels, 1-on-1 direct messaging, online status indicators, and file sharing. |
-| **🏥 Healthcare & Appointment Booking** | Service provider and practitioner directory, real-time time slot scheduling, patient booking intake workflows, automated reminders, and consultation history management. |
-| **📊 Financial Dashboards & Business Analytics** | Cash-flow tracking, income & expense ledgers, interactive KPI charts, real-time metrics visualizers, and automated financial audit reports. |
-| **🌐 High-Converting Corporate & Agency Sites** | Ultra-premium multi-page corporate ecosystems with dark cyber-glassmorphism, micro-interactions, hardware-accelerated custom cursors, interactive particle canvases, and SEO optimization. |
-| **☁️ AWS Cloud Infrastructure & DevOps CI/CD** | Production cloud deployments (AWS EC2, S3, CloudFront), Docker containerization, automated GitHub Actions CI/CD workflows, Nginx reverse proxy load-balancing, and SSL/TLS management. |
-| **🪔 Digital Archives & Knowledge Portals** | Large-scale digital scripture and manuscript archives, multi-lingual rendering engines, category taxonomy hierarchies, and instant multi-modal search engines. |
+| **🏢 Enterprise ERP & Business Operations** | Role-Based Access Control (Admin, Accounts, Employee), daily attendance punch, real-time Socket.IO team chat, project pipelines, and automated jsPDF executive reports. |
+| **🏡 Real Estate & Property Portals** | Multi-listing property catalogs, dynamic location filters, responsive property detail layouts, agent lead capture forms, and client dashboard workflows. |
+| **💼 Job Recruitment & Career Portals (ATS)** | Dual-role candidate & recruiter authentication, job listing creation, resume upload and parsing, application tracking stages, and multi-filter job search. |
+| **🎓 Student Learning Management Systems (LMS)** | Student course enrollment, lecture video streaming, course curriculum outlines, student progress tracking, and instructor course creation dashboards. |
+| **🛍️ E-Commerce & Custom Retail Platforms** | Product catalogs, shopping cart state management, custom measurement specification forms, responsive boutique layouts, and checkout flows. |
+| **🚗 Vehicle Rental & Mobility Booking** | Fleet inventory showcase, date & time reservation scheduler, dynamic fare calculations, and customer rental booking histories. |
+| **🪔 Digital Scripture & Knowledge Archives** | Four Vedas exploration, structured scriptural archives, Devanagari mantra reader with transliteration, and multi-modal topic search. |
 
 ---
 
-## 🌟 Featured Live & Open-Source Projects
+## 🌟 Featured Projects
 
 <table>
   <tr>
@@ -54,7 +48,7 @@
         <a href="https://github.com/Deepak8081/jvs-website"><b>📂 Source Code</b></a>
       </p>
       <p>
-        Ultra-premium enterprise platform featuring dark cyber-glassmorphism, 10+ dedicated business pages, dynamic service calculators, interactive particle canvas, and hardware-accelerated custom cursor.
+        Modern corporate ecosystem website featuring dark cyber-glassmorphism, 10+ dedicated business pages, dynamic service calculators, interactive particle canvas, and hardware-accelerated custom cursor.
       </p>
       <p>
         <img src="https://skillicons.dev/icons?i=react,vite,tailwind,vercel&perline=6" height="28" alt="stack" />
@@ -133,23 +127,23 @@
 
 ---
 
-## 🛠️ Technical Competencies & Tooling
+## 🛠️ Technical Competencies
 
 <div align="center">
 
 | Layer | Technologies & Ecosystem |
 | :--- | :--- |
-| **Frontend Engineering** | React 19, Next.js 14 (App Router), TypeScript, JavaScript (ES6+), Tailwind CSS v4, Framer Motion, Redux Toolkit, HTML5, CSS3 |
-| **Backend & APIs** | Node.js, Express.js 5, Microservices Architecture, RESTful APIs, WebSockets (Socket.IO), Python, Django |
-| **Cloud Infrastructure & DevOps** | AWS (EC2, S3, CloudFront), Docker, Kubernetes, CI/CD (GitHub Actions), Nginx, Linux, Vercel |
-| **Databases & ORMs** | MongoDB, Mongoose, MySQL, PostgreSQL, Redis Caching |
-| **Engineering Tooling** | Git, Postman, Vite, Node-Cron, NPM / Yarn, Docker Compose |
+| **Frontend Engineering** | React 19, Next.js 14, TypeScript, JavaScript (ES6+), Tailwind CSS v4, Framer Motion, Redux, HTML5, CSS3 |
+| **Backend & APIs** | Node.js, Express.js 5, RESTful APIs, WebSockets (Socket.IO), JWT Auth |
+| **Cloud & DevOps** | AWS (EC2, S3), Docker, Git, GitHub, Nginx, Linux, Vercel |
+| **Databases** | MongoDB, Mongoose, MySQL |
+| **Tooling** | Postman, Vite, NPM, VS Code |
 
 </div>
 
 ---
 
-## 📈 Engineering Stack & Language Breakdown
+## 📈 Top Languages Breakdown
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak8081&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -157,7 +151,7 @@
 
 ---
 
-## 📬 Contact & Client Collaboration
+## 📬 Contact
 
 <p align="center">
   <a href="mailto:deepakraj9454979020@gmail.com">
