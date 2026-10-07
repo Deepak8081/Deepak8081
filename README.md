@@ -1,20 +1,20 @@
 <div align="center">
 
 # Deepak 👋
-### Full-Stack Software Engineer • MERN, Next.js & Distributed Systems
+### Full-Stack Software Engineer • MERN, Next.js, AWS & DevOps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-chakravarti-1a5915256)
 [![GitHub Repos](https://img.shields.io/badge/Repositories-60+-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepak8081?tab=repositories)
 [![Email](https://img.shields.io/badge/Contact-deepakraj9454979020%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakraj9454979020@gmail.com)
 
 <p align="center">
-  Full-Stack Engineer specializing in high-performance web platforms, enterprise ERP architectures, event-driven microservices, real estate portals, and modern UI engineering with React 19, Next.js 14, Node.js, and MongoDB.
+  Senior Full-Stack & DevOps Engineer specializing in scalable web platforms, enterprise ERP architectures, AWS cloud infrastructure, CI/CD pipelines, real estate portals, job portals, student management systems, and modern UI engineering with React 19, Next.js 14, Node.js, and MongoDB.
 </p>
 
-<!-- Modern Silicon Valley Devicon Vector Tech Stack -->
+<!-- Modern Silicon Valley Devicon Vector Tech Stack with AWS & DevOps -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,mysql,python,django,redux,docker,git,postman,linux,vite,vercel" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,mysql,aws,docker,kubernetes,githubactions,linux,nginx,python,django,redux,git,postman,vite,vercel" alt="Tech Stack" />
   </a>
 </p>
 
@@ -26,11 +26,13 @@
 
 | Domain / System | Technical Architecture & Capabilities |
 | :--- | :--- |
-| **Real Estate Platforms & Portals** | Scalable multi-listing property portals, dynamic location search, virtual tour layouts, lead inquiry routing, and responsive client dashboards. |
+| **Real Estate Platforms & Property Portals** | Scalable multi-listing property portals, dynamic location-based search, virtual tour layouts, lead inquiry routing, and responsive client dashboards. |
 | **Enterprise ERP & Operations Suites** | Comprehensive ERP architectures with Role-Based Access Control (RBAC), daily workforce attendance engines, financial ledgers, project milestones, and automated executive reporting. |
-| **Distributed Microservices & Real-Time APIs** | Scalable microservice architectures, secure authentication gateways, real-time bidding protocols, provider dispatch engines, and high-concurrency WebSocket event handling. |
+| **Job Recruitment & Career Portals** | End-to-end recruitment platforms, Applicant Tracking Systems (ATS), dual-role candidate & recruiter dashboards, resume pipeline management, and multi-filter job search engines. |
+| **Student & Learning Management Systems (LMS)** | Comprehensive student lifecycle management, course enrollment, lecture streaming, progress & grade tracking, assessment modules, and instructor administrative controls. |
+| **Distributed Microservices & Cloud Backends** | Scalable microservice architectures, secure authentication gateways, real-time bidding protocols, provider dispatch engines, and high-concurrency WebSocket event handling. |
 | **Multi-Vendor E-Commerce Platforms** | High-throughput retail ecosystems, catalog indexing, real-time inventory synchronization, shopping cart state management, and payment integrations. |
-| **Digital Knowledge & Archive Systems** | Large-scale digital text archives, multi-lingual rendering engines, category taxonomy hierarchies, and instant multi-modal search. |
+| **Cloud Infrastructure & DevOps Pipelines** | AWS cloud architecture (EC2, S3, CloudFront), Docker containerization, automated CI/CD GitHub Actions deployment workflows, Nginx reverse proxy configuration, and production SSL/TLS setup. |
 
 ---
 
@@ -48,7 +50,7 @@
         Ultra-premium enterprise platform featuring dark cyber-glassmorphism, 10+ dedicated business pages, dynamic service calculators, interactive particle canvas, and hardware-accelerated custom cursor.
       </p>
       <p>
-        <img src="https://skillicons.dev/icons?i=react,vite,tailwind&perline=6" height="28" alt="stack" />
+        <img src="https://skillicons.dev/icons?i=react,vite,tailwind,vercel&perline=6" height="28" alt="stack" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -59,6 +61,34 @@
       </p>
       <p>
         Complete Enterprise Resource Planning suite with granular Role-Based Access Control (Admin, Accounts, Employee), live daily attendance logs, real-time Socket.IO chat, project management, and automated jsPDF executive reports.
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&perline=6" height="28" alt="stack" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">💼 HireHub Job Portal</h3>
+      <p>
+        <a href="https://github.com/Deepak8081/Job_Portal"><b>📂 Source Code</b></a> &bull; 
+        <a href="https://github.com/Deepak8081/Job_Portal#readme"><b>📖 Case Study</b></a>
+      </p>
+      <p>
+        Full-stack MERN recruitment platform connecting candidates with hiring companies. Features dual-role authentication, Applicant Tracking System (ATS), one-click applications, and resume pipeline.
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&perline=6" height="28" alt="stack" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🎓 SkillSphere Student LMS</h3>
+      <p>
+        <a href="https://github.com/Deepak8081/Learning-Management-System-"><b>📂 Source Code</b></a> &bull; 
+        <a href="https://github.com/Deepak8081/Learning-Management-System-#readme"><b>📖 Documentation</b></a>
+      </p>
+      <p>
+        Comprehensive student and learning management system featuring digital course enrollment, curriculum overview, video lecture streaming, student milestone badges, and instructor course creation studio.
       </p>
       <p>
         <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&perline=6" height="28" alt="stack" />
@@ -80,21 +110,6 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">💼 HireHub Job Portal</h3>
-      <p>
-        <a href="https://github.com/Deepak8081/Job_Portal"><b>📂 Source Code</b></a> &bull; 
-        <a href="https://github.com/Deepak8081/Job_Portal#readme"><b>📖 Case Study</b></a>
-      </p>
-      <p>
-        Full-stack MERN recruitment platform connecting candidates with hiring companies. Features dual-role authentication, Applicant Tracking System (ATS), one-click applications, and resume pipeline.
-      </p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&perline=6" height="28" alt="stack" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="left">✂️ TailorPro E-Commerce</h3>
       <p>
         <a href="https://github.com/Deepak8081/tailerproo-website"><b>📂 Source Code</b></a>
@@ -104,18 +119,6 @@
       </p>
       <p>
         <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind&perline=6" height="28" alt="stack" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🚗 Urban Cruise Mobility</h3>
-      <p>
-        <a href="https://github.com/Deepak8081/Urban-Cruise"><b>📂 Source Code</b></a>
-      </p>
-      <p>
-        Vehicle rental and urban mobility booking platform featuring fleet filtering, reservation scheduler, transparent pricing calculators, and user rental history.
-      </p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&perline=6" height="28" alt="stack" />
       </p>
     </td>
   </tr>
@@ -131,8 +134,9 @@
 | :--- | :--- |
 | **Frontend Engineering** | React 19, Next.js 14 (App Router), TypeScript, JavaScript (ES6+), Tailwind CSS v4, Framer Motion, Redux Toolkit, HTML5, CSS3 |
 | **Backend & APIs** | Node.js, Express.js 5, Microservices Architecture, RESTful APIs, WebSockets (Socket.IO), Python, Django |
+| **Cloud & DevOps** | AWS (EC2, S3, CloudFront), Docker, Kubernetes, CI/CD (GitHub Actions), Nginx, Linux, Vercel |
 | **Databases & ORMs** | MongoDB, Mongoose, MySQL, PostgreSQL, Redis Caching |
-| **DevOps & Tooling** | Git, GitHub Actions, Docker, Linux, Vercel, Postman, Vite, Node-Cron, NPM / Yarn |
+| **DevOps & Tooling** | Git, Postman, Vite, Node-Cron, NPM / Yarn, Docker Compose |
 
 </div>
 
