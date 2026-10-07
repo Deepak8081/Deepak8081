@@ -142,9 +142,9 @@
 ## 📈 Engineering Activity & GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepak8081&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Deepak's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepak8081&show_icons=true&theme=tokyonight&hide_border=true" alt="Deepak's GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak8081&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Deepak8081&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
