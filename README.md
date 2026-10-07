@@ -1,14 +1,14 @@
 <div align="center">
 
-# Deepak Raj
+# Deepak 👋
 ### Full-Stack Software Engineer • MERN, Next.js & Distributed Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak%20Chakravarti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-chakravarti-1a5915256)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-chakravarti-1a5915256)
 [![GitHub Repos](https://img.shields.io/badge/Repositories-60+-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepak8081?tab=repositories)
 [![Email](https://img.shields.io/badge/Contact-deepakraj9454979020%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakraj9454979020@gmail.com)
 
 <p align="center">
-  Senior Full-Stack Engineer specializing in high-performance web platforms, enterprise ERP architectures, event-driven microservices, and modern UI engineering with React 19, Next.js 14, Node.js, and MongoDB.
+  Full-Stack Engineer specializing in high-performance web platforms, enterprise ERP architectures, event-driven microservices, real estate portals, and modern UI engineering with React 19, Next.js 14, Node.js, and MongoDB.
 </p>
 
 <!-- Modern Silicon Valley Devicon Vector Tech Stack -->
@@ -22,20 +22,19 @@
 
 ---
 
-## 💼 Enterprise & Production Work (Private & Client Systems)
-> **Active Collaborator & Core Contributor across 60+ Repositories & Microservices**
+## 💼 Production Systems & Domain Expertise
 
-| Organization / Client | Focus Area | Technical Architecture & Contributions |
-| :--- | :--- | :--- |
-| **MOYO International Pvt Ltd** | Distributed Microservices & Fintech | Architected and maintained core authentication (`moyo_auth_service`), real-time bidding service (`moyo_bid_service`), provider dispatch engine (`moyo_provider_service`), and central operations dashboards. |
-| **CRSTAL-LOGIC** | High-Throughput E-Commerce | Full-stack engineering for multi-vendor grocery ecosystem (`Online-Grocery-Backend` & `Online-Grocery-UI`). Engineered REST APIs, inventory sync, and order lifecycle management. |
-| **Sinfolix Technologies** | Enterprise Client Applications | Developed scalable frontend architectures, design token components, and reactive workflows (`SinfolixFrontendReact`). |
-| **StructureVeda** | Cultural & Knowledge Engineering | Engineering lead on digital architecture research, scripture archives, and scalable reading platforms. |
-| **Grano & GreenWorlds** | Corporate & Infrastructure Tech | End-to-end full-stack systems (`grano`, `grano_foods`, `grano_infra`) managing industrial operations and digital presence. |
+| Domain / System | Technical Architecture & Capabilities |
+| :--- | :--- |
+| **Real Estate Platforms & Portals** | Scalable multi-listing property portals, dynamic location search, virtual tour layouts, lead inquiry routing, and responsive client dashboards. |
+| **Enterprise ERP & Operations Suites** | Comprehensive ERP architectures with Role-Based Access Control (RBAC), daily workforce attendance engines, financial ledgers, project milestones, and automated executive reporting. |
+| **Distributed Microservices & Real-Time APIs** | Scalable microservice architectures, secure authentication gateways, real-time bidding protocols, provider dispatch engines, and high-concurrency WebSocket event handling. |
+| **Multi-Vendor E-Commerce Platforms** | High-throughput retail ecosystems, catalog indexing, real-time inventory synchronization, shopping cart state management, and payment integrations. |
+| **Digital Knowledge & Archive Systems** | Large-scale digital text archives, multi-lingual rendering engines, category taxonomy hierarchies, and instant multi-modal search. |
 
 ---
 
-## 🌟 Featured Public Projects
+## 🌟 Featured Projects
 
 <table>
   <tr>
@@ -163,7 +162,7 @@
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/deepak-chakravarti-1a5915256">
-    <img src="https://img.shields.io/badge/LinkedIn-Deepak%20Chakravarti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Deepak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/Deepak8081">
